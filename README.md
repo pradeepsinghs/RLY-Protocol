@@ -1,2 +1,2 @@
 CHECK THE LINK
-https://pradeepsinghs.github.io/RLY-Protocol/
+https://pradeep-rly-protocol.netlify.app/
